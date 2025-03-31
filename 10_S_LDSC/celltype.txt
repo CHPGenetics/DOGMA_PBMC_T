@@ -1,0 +1,5 @@
+CD4+ Regulatory (Resting)
+CD4+ Memory (Activated) - Other
+CD8+ Memory (Resting)
+CD4+ Naive (Activated)
+CD8+ Naive (Resting)

@@ -1,0 +1,5 @@
+CD4+ Memory (Activated) - Tfh
+CD4+ Memory (Activated) - Th1
+CD4+ Memory (Resting) - Th17
+CD8+ Regulatory
+CD4+ Memory (Resting) - Tfh

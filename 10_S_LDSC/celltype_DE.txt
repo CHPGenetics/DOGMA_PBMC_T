@@ -1,0 +1,20 @@
+CD4+ Regulatory (Resting)
+CD4+ Memory (Activated) - Other
+CD8+ Memory (Resting)
+CD4+ Naive (Activated)
+CD8+ Naive (Resting)
+CD8+ Naive (Activated)
+CD4+ Memory (Resting) - Th1
+MAITs (Activated)
+Gamma Delta
+CD4+ Memory (Activated) - Th17
+CD4+ Naive (Resting)
+CD8+ Memory (Activated)
+MAITs (Resting)
+CD4+ Regulatory (Activated)
+CD4+ Memory (Resting) - Other
+CD4+ Memory (Activated) - Tfh
+CD4+ Memory (Activated) - Th1
+CD4+ Memory (Resting) - Th17
+CD8+ Regulatory
+CD4+ Memory (Resting) - Tfh

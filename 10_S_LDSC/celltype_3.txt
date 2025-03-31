@@ -1,0 +1,5 @@
+CD4+ Naive (Resting)
+CD8+ Memory (Activated)
+MAITs (Resting)
+CD4+ Regulatory (Activated)
+CD4+ Memory (Resting) - Other
